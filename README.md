@@ -1,4 +1,4 @@
-# yt-data-engineering-101
+# Data Engineering 101 - Ricki Chan
 
 [Module 1: Running PostgreSQL Locally with Docker](https://github.com/rickichann/yt-de101-running-postgres-locally-with-docker)
 
